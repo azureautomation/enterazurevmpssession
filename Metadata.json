@@ -1,0 +1,20 @@
+{
+    "Author": "Robin Granberg",
+    "ContentSize": 6987,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/enterazurevmpssession/master/Enter-AzureVMPSSession.ps1",
+    "DownloadCount": 870,
+    "Id": "Enter-AzureVMPSSession-02822eb2",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 572,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-1-15T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Creates and entering a [PowerShell] PSSession prompt to a virtual machine in an Azure cloud service using password and certificate.",
+    "Title": "Enter-AzureVMPSSession",
+    "UpdatedDate": "2015-1-15T00:00:00",
+    "Url": "https://github.com/azureautomation/enterazurevmpssession",
+    "UserTags": "Remoting, Virtual Machine, Windows Azure Virtual Machines"
+}
